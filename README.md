@@ -40,8 +40,6 @@ AI_SERVICE_KEY=your_azure_key
 Replace your_azure_endpoint and your_azure_key with your actual Azure
 ##Output
 
--Original Image street
-
 -Modified(Analyzed) Screenshot Screenshot 2024-10-28 105001
 ![Uploading image.png…]()
 
