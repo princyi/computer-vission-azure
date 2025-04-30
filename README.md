@@ -43,6 +43,8 @@ Replace your_azure_endpoint and your_azure_key with your actual Azure
 -Original Image street
 
 -Modified(Analyzed) Screenshot Screenshot 2024-10-28 105001
+![Uploading image.png…]()
+
 
 Analyze Images
 Authenticate the Azure AI Vision client using your credentials.
